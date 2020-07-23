@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <form action="http://localhost:3001/prueba" method="post">
+      <form action="https://integraalphalobo.herokuapp.com/prueba" method="post">
         <input type="text" placeholder="Nombre" id="nombre" name="nombre" />
         <br/>
         <input type="text" placeholder="Nombre Hotel" id="hotel" name="hotel"/>
